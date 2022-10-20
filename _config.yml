@@ -1,0 +1,58 @@
+title: Mert Karagoz - Personal Blog
+author: generatorexit
+email: generatorexit@gmail.com
+description: >
+  I'm a security professional, passionate about programming (especially Python) and cyber security.
+show_excerpts: true
+
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Mert Karagoz
+  tagline: Software Engineer
+  and
+  Cyber Security
+  date_format: "%b %-d, %Y"
+  sitemap: true 
+  search: true 
+  dark_mode: true 
+  disqus_shortname: generatorexit-github-io
+  portfolio_image: "assets/portfolio.png" 
+  html_lang: "tr" 
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    twitter: generatorexit
+    github:  generatorexit
+    linkedIn: in/generatorexit
+    #stackoverflow: users/10477283/generatorexit
+    #dribbble: generatorexit
+    #flickr:   generatorexit
+    #instagram: generatorexit
+    #pinterest: generatorexit
+    #youtube: generatorexit
+    #facebook: generatorexit
+    #soundcloud: generatorexit
+    #telegram: generatorexit
+    #gitlab: generatorexit
+    #email: generatorexit
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+# header_pages:
+# - about.md
+
+plugins:
+  - jekyll-seo-tag
+
+remote_theme: samarsault/plainwhite-jekyll
