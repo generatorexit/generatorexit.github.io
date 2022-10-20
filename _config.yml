@@ -1,0 +1,38 @@
+title: Mert Karagoz - Personal Blog
+author: generatorexit
+email: generatorexit@gmail.com
+description: >
+  I'm a security professional, passionate about programming (especially Python) and cyber security.
+show_excerpts: true
+
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Mert Karagoz
+  tagline: Software Engineer.
+  date_format: "%b %-d, %Y"
+  sitemap: true 
+  search: true 
+  dark_mode: true 
+  disqus_shortname: generatorexit-github-io
+  portfolio_image: "assets/portfolio.png" 
+  html_lang: "en" 
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    twitter: generatorexit
+    github:  generatorexit
+    linkedIn: in/generatorexit
+    stackoverflow: users/10477283/engincan-veske
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+# header_pages:
+# - about.md
+
+plugins:
+  - jekyll-seo-tag
+
+remote_theme: samarsault/plainwhite-jekyll
