@@ -1,1 +1,1 @@
-This repository contains blog posts on [engincanv.github.io](https://engincanv.github.io/).
+This repository contains blog posts on [generatorexit.github.io](https://generatorexit.github.io/).
