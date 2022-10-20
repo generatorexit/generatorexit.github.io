@@ -9,9 +9,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mert Karagoz
-  tagline: Software Engineer
-  and
-  Cyber Security
+  tagline: Software Engineer and Cyber Security
   date_format: "%b %-d, %Y"
   sitemap: true 
   search: true 
